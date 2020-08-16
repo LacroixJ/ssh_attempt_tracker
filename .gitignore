@@ -1,0 +1,5 @@
+__PYCACHE__
+*.swo
+*.swp
+*.hide
+auth.*
